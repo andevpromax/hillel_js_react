@@ -1,0 +1,27 @@
+ul {
+  margin: 10px;
+}
+
+.firstLevel {
+  border: 2px solid green;
+}
+
+.secondLevel {
+  border: 2px solid crimson;
+}
+
+.thirdLevel {
+  border: 2px solid blue;
+}
+
+/* .block {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: crimson;
+}
+
+#mySpan {
+  position: relative;
+  background-color: indigo;
+} */

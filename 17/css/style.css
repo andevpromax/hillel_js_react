@@ -1,0 +1,33 @@
+.block {
+  width: 200px;
+  height: 200px;
+  background-color: crimson;
+  position: relative;
+  margin-bottom: 10px;
+  border: 2px solid rgb(8, 0, 255);
+}
+
+.active {
+  background-color: green;
+}
+
+#parent, #child, #inner-child {
+  margin: 16px;
+  padding: 16px;
+  outline: 1px solid #ffc107;
+  font-weight: 500;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+#parent {
+  background-color: #673ab7;
+}
+
+#child {
+  background-color: #448aff;
+}
+
+#inner-child {
+  background-color: green;
+}

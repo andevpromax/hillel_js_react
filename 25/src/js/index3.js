@@ -1,0 +1,1 @@
+export default 'INDEX-3'
